@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**huski9851/huski9851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
 
