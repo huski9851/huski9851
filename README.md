@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Minchul's%20GitHub&fontSize=42" />
 
 <div align=center>
 <h3>반갑습니다! 권민철입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
@@ -22,5 +22,4 @@
 <a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
